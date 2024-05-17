@@ -1,0 +1,9 @@
+granite
+pyrite
+sandstone
+basalt
+labradorite
+quartzite
+coal
+limestone
+marble
